@@ -1,5 +1,3 @@
-# index.html
-Github2
 <!DOCTYPE html>
 <html lang="english"> 
 
